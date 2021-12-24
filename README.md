@@ -1,5 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ultimate190/heroku-vnc)
-# NoVNC-for-Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ultimate190/heroku-vnc)
 **Running a VNC server + NoVNC client on Heroku app**
 
 ### Features:
